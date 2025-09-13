@@ -1,4 +1,4 @@
-# Todo & Collaboration Platform Backend
+# CollabBoard
 
 This is a robust backend service for a collaborative task management and social platform, built with the Spring Boot framework. It features a comprehensive RESTful API, real-time communication via WebSockets, and a secure, stateless authentication system using JWT. The project is structured as a multi-module monolith to ensure clean architecture and separation of concerns.
 
